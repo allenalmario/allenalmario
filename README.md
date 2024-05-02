@@ -1,7 +1,5 @@
 # Hi there, I'm Allen! 👋
 
-## My GitHub profile consists of projects from my University days, Coding Dojo bootcamp, Year Up Puget Sound classes, and personal projects.
-
 <!--
 **allenalmario/allenalmario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
