@@ -29,5 +29,3 @@ Here are some ideas to get you started:
     - REST Assured
     - Cucumber
     - J Unit/TestNG
-    - Selenium
-    - Serenity BDD
