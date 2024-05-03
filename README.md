@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 - 🎯 My goals are to
   - Learn REST Assured with Java
-  - Get back into Web Development: Possibly Springboot and React
+  - Refresh on HTML and CSS
+  - Get back into Web Development: Specifically Springboot backend and React frontend
 
 - ⚡ Status: I'm a Software Development Engineer in Test at a Seattle based logistics company called Expeditors International of Washington
 
