@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Playwright and REST Assured with Java
+- 🌱 I’m currently learning Playwright with Java
+
+- 🎯 My goals are to
+  - Learn REST Assured with Java
+  - Get back into Web Development: Possibly Springboot and React
 
 - ⚡ Status: I'm a Software Development Engineer in Test at a Seattle based logistics company called Expeditors International of Washington
 
