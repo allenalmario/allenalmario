@@ -20,8 +20,7 @@ Here are some ideas to get you started:
   - REST Assured with Java
 
 - 🎯 My goals are to
-  - Brush up on HTML and CSS
-  - Get back into Web Development, React front end and Springboot back end
+  - Create a web portfolio
 
 - ⚡ Status: I'm a Software Development Engineer in Test at a Seattle based logistics company
 - 💬 Projects may be built with any of the following:
