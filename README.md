@@ -23,6 +23,9 @@ Here are some ideas to get you started:
   - Create a web portfolio
 
 - ⚡ Status: I'm a Software Development Engineer in Test at a Seattle based logistics company
+
+- 📫 How to reach me: Message me on LinkedIn
+
 - 💬 Projects may be built with any of the following:
   - Coding Languages:
     - Java
