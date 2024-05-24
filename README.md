@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 - 🎯 My goals are to
   - Brush up on
-    - HTML and CSS
-    - JavaScript 
+    - HTML and CSS through freeCodeCamp
+    - JavaScript through freeCodeCamp
   - Create a web portfolio
 
 - ⚡ Status: I'm a Software Development Engineer in Test at a Seattle based logistics company
