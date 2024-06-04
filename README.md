@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning
-  - Playwright with Java
   - REST Assured with Java
 
 - 🎯 My goals are to
