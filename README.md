@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning
-  - REST Assured with Java
+  - TBA
 
 - 🎯 My goals are to
-  - Establish projects that showcase my skills in building automation frameworks
+  - TBA
 
 - ⚡ Status: I'm a Software Development Engineer in Test at a Seattle based logistics company
 
@@ -31,5 +31,5 @@ Here are some ideas to get you started:
   - Frameworks:
     - Playwright
     - REST Assured
-    - Cucumber
+    - Cucumber BDD
     - J Unit/TestNG
