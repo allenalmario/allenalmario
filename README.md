@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning
-  - TBA
+  - Playwright with Java
+  - REST Assured with Java
 
 - 🎯 My goals are to
-  - TBA
+  - Build projects that showcase my ability to create test automation frameworks for UI and API automated testing
 
 - ⚡ Status: I'm a Software Development Engineer in Test at a Seattle based logistics company
 
