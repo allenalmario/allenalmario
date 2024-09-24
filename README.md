@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🎯 My goals are to
   - Build projects that showcase my ability to create test automation frameworks for UI and API automated testing
 
-- ⚡ Status: I'm a Software Development Engineer in Test at a Seattle based logistics company
+- ⚡ Status: I'm a Software Development Engineer in Test II at a Seattle based logistics company
 
 - 📫 How to reach me: Message me on LinkedIn
 
