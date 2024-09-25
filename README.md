@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🤔 I’m currently reviewing
   - Test Scenario/Test Case generation
-  - Functional Testing
+  - System > Functional Testing
   - API Testing
 
 - 🎯 My goals are to
