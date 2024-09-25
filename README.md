@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning
+  - Playwright
+  - REST Assured
+
+- 🤔 I’m currently reviewing
+  - Test Scenario/Test Case generation
+  - Functional Testing
+  - API Testing
 
 - 🎯 My goals are to
   - Build projects that showcase my ability to create test automation frameworks for UI and API automated testing
