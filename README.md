@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - ⚡ Status: I'm a Software Development Engineer in Test II
 
-- 📫 How to reach me: Message me on LinkedIn
+- 📫 How to reach me: 
 
 - 💬 Projects may be built with any of the following:
   - Coding Languages:
