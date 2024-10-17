@@ -20,9 +20,8 @@ Here are some ideas to get you started:
   - REST Assured
 
 - 🤔 I’m currently reviewing
-  - Test Scenario/Test Case generation
-  - System > Functional Testing
-  - API Testing
+  - Selenium
+  - Python
 
 - 🎯 My goals are to
   - Build projects that showcase my ability to create test automation frameworks for Web and API automated testing
