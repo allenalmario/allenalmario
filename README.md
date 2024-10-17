@@ -37,4 +37,4 @@ Here are some ideas to get you started:
     - Playwright
     - REST Assured
     - Cucumber BDD
-    - J Unit/TestNG
+    - TestNG
