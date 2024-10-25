@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - ⚡ Status: I'm a Software Development Engineer in Test II
 
-- 📫 How to reach me: 
+- 📫 How to reach me: Message me on LinkedIn
 
 - 💬 Projects may be built with any of the following:
   - Coding Languages:
@@ -37,4 +37,5 @@ Here are some ideas to get you started:
     - Playwright
     - REST Assured
     - Cucumber BDD
-    - TestNG
+    - TestNG/JUnit
+    - Selenium
